@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <h1 align="center">👋 Hey there, I'm Akshay Kothule</h1>
-<h3 align="center">💻 CDAC Student @ IACSD Pune | 🎓 B.Tech (LPU) | 💼 Ex-Springworks | 🌱 Developer & Advanced Computing Enthusiast</h3>
+<h3 align="center">💻 CDAC Student @ IACSD Pune | 🎓 B.Tech(VIIT) | 💼 Ex-Hashchcron Technologies  </h3>
 
 ---
 ### 🔥 GitHub Stats  
