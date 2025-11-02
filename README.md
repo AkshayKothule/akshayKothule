@@ -56,8 +56,8 @@
 
 | Year | Milestone |
 |------|------------|
-| 2024 | 🎓 Graduated B.Tech from **Lovely Professional University (LPU)** |
-| 2024–2025 | 💼 Worked at **Springworks** (May 2024 – 2025) – gained corporate and operational experience |
+| 2024 | 🎓  Graduated **B.Tech** from **vishwakarma institute of information technology(VIIT) Pune**   |
+| 2024–2025 | 💼 Worked at **Hahscron Technologies** (Feb 2024 - July 2024) – gained corporate experience|
 | 2025 | 📚 Joined **CDAC @ IACSD Pune** on **21 August 2025** to dive deep into advanced computing |
 | 2025 | 🔍 Currently focusing on **Developer roles & Advanced Computing** (programming, system design, DSA) |
 
