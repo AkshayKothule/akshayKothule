@@ -5,11 +5,11 @@
 ---
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijitmore524&show_icons=true&theme=radical" alt="Abhijit More's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayKothule&show_icons=true&theme=radical" alt="Abhijit More's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijitmore524&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKothule&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
