@@ -15,12 +15,12 @@
 ---
 
 ### 🧠 About Me  
-- 🚀 Graduated **B.Tech** from **Lovely Professional University (LPU)** in **2024**  
-- 💼 Worked at **Springworks** (May 2024 – 2025) — gained corporate, operational, and team experience  
+- 🚀 Graduated **B.Tech** from **vishwakarma institute of information technology(VIIT) Pune** in **2024**  
+- 💼 Worked as an Intern at ** Hashcron Technologies ** — built CRM modules using Joget, improved teamwork & deadlines discipline
 - 📚 Joined **CDAC @ IACSD Pune** on **21 August 2025** to build advanced computing skills  
-- 🧩 Transitioned from operations to a **technical career** focused on **Developer roles & Advanced Computing**  
-- 🌱 Learning **C Programming**, **Data Structures**, **Algorithms**, and other core CS subjects  
-- ⚡ I believe *clarity, consistency, and mindset* are the real keys to growth  
+- 📦 Hands-on skills in Java, SQL, React, Spring Boot, FastAPI, Javascript, Data Structures 
+- 🌱 Focused on mastering DSA, OOPs , databases , and scalable app development 
+- ⚡ Driven by persistence — I believe clarity, practice, and consistency build engineers
 
 ---
 
