@@ -5,7 +5,7 @@
 ---
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayKothule&show_icons=true&theme=radical" alt="Abhijit More's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayKothule&show_icons=true&theme=radical" alt="Akshay Kothule's GitHub stats" />
 </p>
 
 <p align="center">
